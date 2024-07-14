@@ -13,7 +13,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/snake-game.git
+git clone https://github.com/Dhirajsh9/snake-game.git
 cd snake-game
 Ensure you have JavaFX SDK set up and configured properly.
 
